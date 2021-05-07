@@ -1,0 +1,208 @@
+@media screen and (max-width: 753px) {
+  nav {
+    .menu {
+      display: block !important;
+      cursor: pointer;
+      transition: 0.2s all;
+      font-size: 1.2rem;
+    }
+
+    .close {
+      position: fixed;
+      top: 30px;
+      right: 30px;
+      font-size: 1.8rem;
+      cursor: pointer;
+      z-index: 6;
+    }
+    .overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100vh;
+      background: #000;
+      opacity: 0.85;
+      display: none;
+      animation: 0.4s fadeIn forwards;
+    }
+    ul {
+      position: fixed;
+      top: -1000px;
+      left: 0;
+      width: 100%;
+      height: 100vh;
+      flex-direction: column;
+      padding: 30px 0 !important;
+      box-sizing: border-box;
+      transition: 0.4s all;
+      li {
+        width: 100%;
+        text-align: center;
+        padding: 15px;
+
+        a {
+          font-size: 1.2rem;
+        }
+      }
+
+      &.show {
+        top: 0;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 818px) {
+  #whatIdo {
+    ul {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  #myTools {
+    ul {
+      grid-template-columns: repeat(3, 1fr) !important;
+    }
+  }
+}
+
+@media screen and (max-width: 845px) {
+  #about {
+    .container {
+      flex-direction: column;
+      .content {
+        order: 2;
+        text-align: center;
+        margin-top: 30px;
+      }
+      .avatar {
+        order: 1;
+      }
+    }
+  }
+
+  #contact {
+    .container {
+      flex-direction: column;
+
+      form {
+        margin-top: 20px;
+        max-width: 600px;
+
+        input[type="submit"] {
+          margin-bottom: 0;
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 500px) {
+  #myTools {
+    ul {
+      grid-template-columns: repeat(2, 1fr) !important;
+    }
+  }
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0.85;
+  }
+}
+
+@media screen and (max-width: 845px) {
+  #contact {
+    padding-bottom: 15px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  #intro {
+    .content {
+      h1 {
+        font-size: 28px !important;
+        padding: 20px 22px !important;
+      }
+
+      h2 {
+        font-size: 22px !important;
+      }
+    }
+  }
+
+  #myTools {
+    ul {
+      li {
+        i {
+          font-size: 5rem !important;
+        }
+      }
+    }
+  }
+
+  .btn2 {
+    font-size: 0.9rem;
+  }
+}
+
+@media screen and (max-width: 730px) {
+  .preview {
+    img {
+      width: 500px;
+    }
+  }
+}
+
+@media screen and (max-width: 530px) {
+  .preview {
+    img {
+      width: 450px;
+    }
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .preview {
+    img {
+      width: 400px;
+    }
+  }
+}
+
+@media screen and (max-width: 380px) {
+  .preview {
+    img {
+      width: 350px;
+    }
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .preview {
+    img {
+      width: 300px;
+    }
+  }
+}
+
+@media screen and (max-width: 290px) {
+  .preview {
+    img {
+      width: 265px;
+    }
+  }
+  #portfolio {
+    ul {
+      grid-template-columns: repeat(auto-fit, minmax(255px, 1fr)) !important;
+    }
+  }
+
+  .btn2 {
+    font-size: 0.8rem;
+  }
+}

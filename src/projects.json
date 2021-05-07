@@ -1,0 +1,56 @@
+[
+    {
+        "image":"https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,w_700/v1619779001/chatGroup_qbaasy.png",
+        "name":"Chat Group",
+        "desc":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id,minima.",
+        "live":"https://lit-citadel-94024.herokuapp.com/",
+        "code":"https://github.com/leoikeh99/chatGroup",
+        "preview":"https://res.cloudinary.com/wazza99/image/upload/q_100/v1620207455/chatgroup_h09yph.gif",
+        "techs":[{"name":"HTML5","class":"fab fa-html5","color":"#E34C26"},{"name":"CSS3","class":"fab fa-css3","color":"#264DE4"},{"name":"JAVASCRIPT","class":"fab fa-js","color":"#F0DB4F"},{"name":"REACTJS","class":"fab fa-react","color":"#61DBFB"},{"name":"NodeJs","class":"fab fa-node","color":"#68A063"},{"name":"MongoDb","class":"fas fa-database","color":"#4DB33D"},{"name":"Express.js","class":null},{"name":"Context API","class":null},{"name":"Socket.io","class":"fas fa-plug","color":"#4DB33D"}]
+    },
+    {
+        "image":"https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,w_700/v1619778687/shop1_yzurby.png",
+        "name":"Shoppinify",
+        "desc":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id,minima.",
+        "live":"https://agile-temple-46662.herokuapp.com/",
+        "code":"https://github.com/leoikeh99/shoppingify",
+        "preview":"https://res.cloudinary.com/wazza99/image/upload/v1620307579/shoppingify_clhsti.gif",
+        "techs":[{"name":"HTML5","class":"fab fa-html5","color":"#E34C26"},{"name":"CSS3","class":"fab fa-css3","color":"#264DE4"},{"name":"JAVASCRIPT","class":"fab fa-js","color":"#F0DB4F"},{"name":"REACTJS","class":"fab fa-react","color":"#61DBFB"},{"name":"NodeJs","class":"fab fa-node","color":"#68A063"},{"name":"MongoDb","class":"fas fa-database","color":"#4DB33D"},{"name":"Express.js","class":null},{"name":"REDUX","class":null}]
+    },
+    {
+        "image":"https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,w_700/v1619779285/gitjobs_wxullh.png",
+        "name":"Github Jobs",
+        "desc":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id,minima.",
+        "live":"https://githubjobs1000.netlify.app/",
+        "code":"https://github.com/leoikeh99/github-jobs",
+        "preview":"https://res.cloudinary.com/wazza99/image/upload/v1620305988/githubjobs_ckdpaa.gif",
+        "techs":[{"name":"HTML5","class":"fab fa-html5","color":"#E34C26"},{"name":"CSS3","class":"fab fa-css3","color":"#264DE4"},{"name":"JAVASCRIPT","class":"fab fa-js","color":"#F0DB4F"},{"name":"REACTJS","class":"fab fa-react","color":"#61DBFB"},{"name":"Context API","class":null}]
+    },
+    {
+        "image":"https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,w_700/weatherapp_dkrv6i.png",
+        "name":"Weather App",
+        "desc":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id,minima.",
+        "live":"https://weather-app1000.netlify.app/",
+        "code":"https://github.com/leoikeh99/weather-app",
+        "preview":"https://res.cloudinary.com/wazza99/image/upload/v1620373749/weather_sqv4gd.gif",
+        "techs":[{"name":"HTML5","class":"fab fa-html5","color":"#E34C26"},{"name":"CSS3","class":"fab fa-css3","color":"#264DE4"},{"name":"JAVASCRIPT","class":"fab fa-js","color":"#F0DB4F"},{"name":"REACTJS","class":"fab fa-react","color":"#61DBFB"}]
+    },
+    {
+        "image":"https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,w_700/countryquiz_c9yn5g.png",
+        "name":"Country Quiz",
+        "desc":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id,minima.",
+        "live":"https://country-quiz1900.netlify.app/",
+        "code":"https://github.com/leoikeh99/country-quiz",
+        "preview":"https://res.cloudinary.com/wazza99/image/upload/v1620373776/country-quiz_tpfdkw.gif",
+        "techs":[{"name":"HTML5","class":"fab fa-html5","color":"#E34C26"},{"name":"CSS3","class":"fab fa-css3","color":"#264DE4"},{"name":"JAVASCRIPT","class":"fab fa-js","color":"#F0DB4F"},{"name":"REACTJS","class":"fab fa-react","color":"#61DBFB"}]
+    },
+    {
+        "image":"https://res.cloudinary.com/wazza99/image/upload/c_scale,q_100,w_700/v1620375705/rps_qcb9oe.png",
+        "name":"Rock, paper, scissors game",
+        "desc":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id,minima.",
+        "live":"https://country-quiz1900.netlify.app/",
+        "code":"https://github.com/leoikeh99/country-quiz",
+        "preview":"https://res.cloudinary.com/wazza99/image/upload/v1620375465/rps_gm5yqu.gif",
+        "techs":[{"name":"HTML5","class":"fab fa-html5","color":"#E34C26"},{"name":"CSS3","class":"fab fa-css3","color":"#264DE4"},{"name":"JAVASCRIPT","class":"fab fa-js","color":"#F0DB4F"}]
+    }
+]
