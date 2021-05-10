@@ -17,6 +17,17 @@ const Portfolio = () => {
           <Project val={val} setView={setView} />
         ))}
       </ul>
+      <div style={{ textAlign: "center", marginTop: "10px" }}>
+        <a
+          href="https://github.com/leoikeh99?tab=repositories"
+          target="_blank"
+          className="btn2"
+          style={{ maxWidth: "300px" }}
+        >
+          <i className="fab fa-github"></i>
+          View All Projects
+        </a>
+      </div>
       {preview && <Preview gif={preview} setView={setView} />}
     </section>
   );

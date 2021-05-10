@@ -162,6 +162,7 @@ nav {
     max-width: 620px;
     margin: auto;
     padding: 0px 10px;
+    animation: 1s animation1 ease;
 
     h1 {
       color: $primary;
@@ -210,6 +211,9 @@ nav {
       border: 2px solid $text;
       padding: 30px 10px;
       border-radius: 8px;
+      transition: all 0.4s ease-in;
+      transform: translateX(-800px);
+
       .icon {
         width: 60px;
         height: 60px;
@@ -240,6 +244,12 @@ nav {
         }
       }
     }
+
+    &.animate {
+      li {
+        transform: translateX(0);
+      }
+    }
   }
 }
 
@@ -265,6 +275,7 @@ nav {
       display: flex;
       align-items: center;
       flex-direction: column;
+      transition: all 0.6s ease-in;
 
       i,
       img {
@@ -275,6 +286,12 @@ nav {
       img {
         height: 80px;
         width: 80px;
+      }
+    }
+
+    &.animate {
+      li {
+        transform: rotateX(360deg);
       }
     }
   }
@@ -371,7 +388,8 @@ nav {
 
     .content {
       flex-basis: 50%;
-
+      transition: 0.4s all ease-in;
+      transform: translateX(-800px);
       p {
         color: $text2;
 
@@ -388,6 +406,8 @@ nav {
       display: flex;
       align-items: center;
       justify-content: center;
+      transition: 0.4s all;
+      opacity: 0;
       .imgCover {
         border: 6px solid $primary;
         border-radius: 50%;
@@ -398,6 +418,14 @@ nav {
           height: 200px;
           border-radius: 50%;
         }
+      }
+    }
+    &.animate {
+      .content {
+        transform: translateX(0);
+      }
+      .avatar {
+        opacity: 1;
       }
     }
   }

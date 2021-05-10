@@ -67,13 +67,22 @@ const Contact = () => {
 
           <ul>
             <li>
-              <i className="fab fa-github"></i>
+              <a href="https://github.com/leoikeh99" target="_blank">
+                <i className="fab fa-github"></i>
+              </a>
             </li>
             <li>
-              <i className="fab fa-twitter"></i>
+              <a href="https://twitter.com/wazza_dev" target="_blank">
+                <i className="fab fa-twitter"></i>
+              </a>
             </li>
             <li>
-              <i className="fab fa-linkedin"></i>
+              <a
+                href="https://www.linkedin.com/in/leonard-ikeh-22367a209/"
+                target="_blank"
+              >
+                <i className="fab fa-linkedin"></i>
+              </a>
             </li>
           </ul>
         </div>

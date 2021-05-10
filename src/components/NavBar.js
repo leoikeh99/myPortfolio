@@ -3,8 +3,25 @@ import React, { useEffect, useState } from "react";
 const NavBar = () => {
   const [active, setActive] = useState("home");
   useEffect(() => {
+    const ids = ["whatIdo", "myTools", "about"];
     var prevScrollpos = window.pageYOffset;
     window.onscroll = () => {
+      ids.forEach((id) => {
+        const element = document.getElementById(id);
+        const top = element.getBoundingClientRect().top;
+        const bottom = element.getBoundingClientRect().bottom;
+        const height = window.innerHeight - 70;
+        if (top <= height && bottom > 0) {
+          document
+            .querySelector(`#${id} .animation-block`)
+            .classList.add("animate");
+        } else {
+          document
+            .querySelector(`#${id} .animation-block`)
+            .classList.remove("animate");
+        }
+      });
+
       if (window.pageYOffset > prevScrollpos) {
         document.getElementsByTagName("nav")[0].style.top = "0";
       } else {

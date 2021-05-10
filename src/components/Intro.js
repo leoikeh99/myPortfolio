@@ -31,9 +31,10 @@ const About = () => {
         <h1>Leonard Ikeh</h1>
         <h2>{attr}</h2>
         <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eaque
-          quaerat a maxime inventore est autem eligendi error aut. Consectetur
-          molestiae rem modi? Tempore, repudiandae dolor.
+          Hello i'm Leonard, a fullstack web developer that very much loves
+          building/creating software applications, this is my portfolio site
+          where you will be able to see my works and be able to contact me if
+          you like what you see.
         </p>
         <a href="#whatIdo" className="btn">
           Get started

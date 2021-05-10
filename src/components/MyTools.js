@@ -6,7 +6,7 @@ const MyTools = () => {
     <section id="myTools">
       <div className="container">
         <h2>My Tools</h2>
-        <ul>
+        <ul className="animation-block">
           <li>
             <i class="fab fa-html5" style={{ color: "#E34C26" }}></i>
             <div className="name">HTML5</div>

@@ -48,9 +48,9 @@
         "image":"https://res.cloudinary.com/wazza99/image/upload/c_scale,q_100,w_700/v1620375705/rps_qcb9oe.png",
         "name":"Rock, paper, scissors game",
         "desc":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id,minima.",
-        "live":"https://country-quiz1900.netlify.app/",
-        "code":"https://github.com/leoikeh99/country-quiz",
+        "live":"https://rps-1000.netlify.app/",
+        "code":"https://github.com/leoikeh99/Rock-Paper-Scissors-Game",
         "preview":"https://res.cloudinary.com/wazza99/image/upload/v1620375465/rps_gm5yqu.gif",
-        "techs":[{"name":"HTML5","class":"fab fa-html5","color":"#E34C26"},{"name":"CSS3","class":"fab fa-css3","color":"#264DE4"},{"name":"JAVASCRIPT","class":"fab fa-js","color":"#F0DB4F"}]
+        "techs":[{"name":"HTML5","class":"fab fa-html5","color":"#E34C26"},{"name":"CSS3","class":"fab fa-css3","color":"#264DE4"},{"name":"JAVASCRIPT","class":"fab fa-js","color":"#F0DB4F"},{"name":"JQUERY","class":null}]
     }
 ]

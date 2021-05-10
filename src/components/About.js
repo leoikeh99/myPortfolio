@@ -4,19 +4,19 @@ import av from "../images/profilepic.jpg";
 const About = () => {
   return (
     <section className="about" id="about">
-      <div className="container">
+      <div className="container animation-block">
         <div className="content">
           <h2>ABOUT ME</h2>
           <p>FULLSTACK DEVELOPER</p>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus
-            maiores cupiditate veritatis a provident voluptates possimus
-            blanditiis iusto magni, temporibus nisi beatae ut illo ex!
+            I'm Leonard ikeh a fullstack web developer that works with MERN
+            (Mongodb, ExpressJs, ReactJs and NodeJs) stack technologies, I love
+            to build/create applications in a way that users find easy to use
+            and also in a way that other developers can work with.
           </p>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus
-            maiores cupiditate veritatis a provident voluptates possimus
-            blanditiis iusto magni, temporibus nisi beatae ut illo ex!
+            I enjoy programming, building applicaations and working with new
+            technologies.
           </p>
         </div>
 

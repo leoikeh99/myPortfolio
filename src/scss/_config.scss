@@ -3,3 +3,14 @@ $text: #fff;
 $text2: #999;
 $bg1: #1a1a1a;
 $bg2: #000;
+
+@keyframes animation1 {
+  0% {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
