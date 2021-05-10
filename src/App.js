@@ -1,4 +1,4 @@
-import React from "react";
+import React, { Fragment } from "react";
 import NavBar from "./components/NavBar";
 import Intro from "./components/Intro";
 import WhatIdo from "./components/WhatIdo";
