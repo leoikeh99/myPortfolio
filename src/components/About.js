@@ -1,5 +1,4 @@
 import React from "react";
-import av from "../images/profilepic.jpg";
 
 const About = () => {
   return (

@@ -2,7 +2,7 @@
     {
         "image":"https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,w_700/v1619779001/chatGroup_qbaasy.png",
         "name":"Chat Group",
-        "desc":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id,minima.",
+        "desc":"this is a group chat application i built using web sockets (socket.io), users are able to create groups, join groups and chat with other users.",
         "live":"https://lit-citadel-94024.herokuapp.com/",
         "code":"https://github.com/leoikeh99/chatGroup",
         "preview":"https://res.cloudinary.com/wazza99/image/upload/q_100/v1620207455/chatgroup_h09yph.gif",
@@ -11,7 +11,7 @@
     {
         "image":"https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,w_700/v1619778687/shop1_yzurby.png",
         "name":"Shoppinify",
-        "desc":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id,minima.",
+        "desc":"Shoppinify is a fullstack application built for the purpose of allowing users to create shopping lists and perform all sorts of actions to thier items, it also enable history view and statictical view of shopping lists.",
         "live":"https://agile-temple-46662.herokuapp.com/",
         "code":"https://github.com/leoikeh99/shoppingify",
         "preview":"https://res.cloudinary.com/wazza99/image/upload/v1620307579/shoppingify_clhsti.gif",
@@ -20,7 +20,7 @@
     {
         "image":"https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,w_700/v1619779285/gitjobs_wxullh.png",
         "name":"Github Jobs",
-        "desc":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id,minima.",
+        "desc":"This is a frontend application built using react, it enables users to easily scan through the github jobs. (Made using githubjobs API)",
         "live":"https://githubjobs1000.netlify.app/",
         "code":"https://github.com/leoikeh99/github-jobs",
         "preview":"https://res.cloudinary.com/wazza99/image/upload/v1620305988/githubjobs_ckdpaa.gif",
@@ -29,7 +29,7 @@
     {
         "image":"https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,w_700/weatherapp_dkrv6i.png",
         "name":"Weather App",
-        "desc":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id,minima.",
+        "desc":"This application enables users to view the weather status of thier location as well as other locations.",
         "live":"https://weather-app1000.netlify.app/",
         "code":"https://github.com/leoikeh99/weather-app",
         "preview":"https://res.cloudinary.com/wazza99/image/upload/v1620373749/weather_sqv4gd.gif",
@@ -38,7 +38,7 @@
     {
         "image":"https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,w_700/countryquiz_c9yn5g.png",
         "name":"Country Quiz",
-        "desc":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id,minima.",
+        "desc":"This is a frontend application that generates random questions using the res countries api and quizzes users.",
         "live":"https://country-quiz1900.netlify.app/",
         "code":"https://github.com/leoikeh99/country-quiz",
         "preview":"https://res.cloudinary.com/wazza99/image/upload/v1620373776/country-quiz_tpfdkw.gif",
@@ -47,7 +47,7 @@
     {
         "image":"https://res.cloudinary.com/wazza99/image/upload/c_scale,q_100,w_700/v1620375705/rps_qcb9oe.png",
         "name":"Rock, paper, scissors game",
-        "desc":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id,minima.",
+        "desc":"This allows users to challenge the computer in a friendly game of rock. paper, scissors.",
         "live":"https://rps-1000.netlify.app/",
         "code":"https://github.com/leoikeh99/Rock-Paper-Scissors-Game",
         "preview":"https://res.cloudinary.com/wazza99/image/upload/v1620375465/rps_gm5yqu.gif",
