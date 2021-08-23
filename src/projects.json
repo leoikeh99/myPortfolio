@@ -36,16 +36,16 @@
         "techs":[{"name":"HTML5","class":"fab fa-html5","color":"#E34C26"},{"name":"CSS3","class":"fab fa-css3","color":"#264DE4"},{"name":"JAVASCRIPT","class":"fab fa-js","color":"#F0DB4F"},{"name":"REACTJS","class":"fab fa-react","color":"#61DBFB"}]
     },
     {
-        "image":"https://res.cloudinary.com/wazza99/image/upload/c_scale,q_100,h_700,w_700/v1629735349/sunnyside_pdheea.png",
+        "image":"https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,h_700,w_700/v1629737965/sunnyside_1_ynvjoh.png",
         "name":"Sunnyside Landing Page",
         "desc":"This is a Landing page for sunnyside digital company",
         "live":"https://sunnysidepage1000.netlify.app/",
         "code":"https://github.com/leoikeh99/sunnysidePage",
-        "preview":"https://res.cloudinary.com/wazza99/image/upload/c_scale,q_100,h_700,w_700/v1629735349/sunnyside_pdheea.png",
+        "preview":"https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,h_700,w_700/v1629737965/sunnyside_1_ynvjoh.png",
         "techs":[{"name":"HTML5","class":"fab fa-html5","color":"#E34C26"},{"name":"CSS3","class":"fab fa-css3","color":"#264DE4"},{"name":"JAVASCRIPT","class":"fab fa-js","color":"#F0DB4F"}]
     },
     {
-        "image":"https://res.cloudinary.com/wazza99/image/upload/c_scale,,q_100h_700,w_700/v1629735350/insure_juxugp.png",
+        "image":"https://res.cloudinary.com/wazza99/image/upload/c_scale,,q_100,h_700,w_700/v1629735350/insure_juxugp.png",
         "name":"Insure Landing Page",
         "desc":"Landing Page for insurance company",
         "live":"https://insure-page1000.netlify.app/",
