@@ -32,16 +32,16 @@
         "desc":"This application enables users to view the weather status of thier location as well as other locations.",
         "live":"https://weather-app1000.netlify.app/",
         "code":"https://github.com/leoikeh99/weather-app",
-        "preview":"https://res.cloudinary.com/wazza99/image/upload/v1620373749/weather_sqv4gd.gif",
+        "preview":"https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,w_700/v1620373749/weather_sqv4gd.gif",
         "techs":[{"name":"HTML5","class":"fab fa-html5","color":"#E34C26"},{"name":"CSS3","class":"fab fa-css3","color":"#264DE4"},{"name":"JAVASCRIPT","class":"fab fa-js","color":"#F0DB4F"},{"name":"REACTJS","class":"fab fa-react","color":"#61DBFB"}]
     },
     {
-        "image":"https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,h_700,w_700/v1629737965/sunnyside_1_ynvjoh.png",
+        "image":"https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,w_700/v1629738690/sunnyside_2_mokrl5.png",
         "name":"Sunnyside Landing Page",
         "desc":"This is a Landing page for sunnyside digital company",
         "live":"https://sunnysidepage1000.netlify.app/",
         "code":"https://github.com/leoikeh99/sunnysidePage",
-        "preview":"https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,h_700,w_700/v1629737965/sunnyside_1_ynvjoh.png",
+        "preview":"https://res.cloudinary.com/wazza99/image/upload/v1629738690/sunnyside_2_mokrl5.png",
         "techs":[{"name":"HTML5","class":"fab fa-html5","color":"#E34C26"},{"name":"CSS3","class":"fab fa-css3","color":"#264DE4"},{"name":"JAVASCRIPT","class":"fab fa-js","color":"#F0DB4F"}]
     },
     {
