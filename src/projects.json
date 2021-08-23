@@ -36,21 +36,21 @@
         "techs":[{"name":"HTML5","class":"fab fa-html5","color":"#E34C26"},{"name":"CSS3","class":"fab fa-css3","color":"#264DE4"},{"name":"JAVASCRIPT","class":"fab fa-js","color":"#F0DB4F"},{"name":"REACTJS","class":"fab fa-react","color":"#61DBFB"}]
     },
     {
-        "image":"https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,w_700/countryquiz_c9yn5g.png",
-        "name":"Country Quiz",
-        "desc":"This is a frontend application that generates random questions using the res countries api and quizzes users.",
-        "live":"https://country-quiz1900.netlify.app/",
-        "code":"https://github.com/leoikeh99/country-quiz",
-        "preview":"https://res.cloudinary.com/wazza99/image/upload/v1620373776/country-quiz_tpfdkw.gif",
-        "techs":[{"name":"HTML5","class":"fab fa-html5","color":"#E34C26"},{"name":"CSS3","class":"fab fa-css3","color":"#264DE4"},{"name":"JAVASCRIPT","class":"fab fa-js","color":"#F0DB4F"},{"name":"REACTJS","class":"fab fa-react","color":"#61DBFB"}]
+        "image":"https://res.cloudinary.com/wazza99/image/upload/c_scale,q_100,w_700/v1629735349/sunnyside_pdheea.png",
+        "name":"Sunnyside Landing Page",
+        "desc":"This is a Landing page for sunnyside digital company",
+        "live":"https://sunnysidepage1000.netlify.app/",
+        "code":"https://github.com/leoikeh99/sunnysidePage",
+        "preview":"https://res.cloudinary.com/wazza99/image/upload/c_scale,q_100,w_700/v1629735349/sunnyside_pdheea.png",
+        "techs":[{"name":"HTML5","class":"fab fa-html5","color":"#E34C26"},{"name":"CSS3","class":"fab fa-css3","color":"#264DE4"},{"name":"JAVASCRIPT","class":"fab fa-js","color":"#F0DB4F"}]
     },
     {
-        "image":"https://res.cloudinary.com/wazza99/image/upload/c_scale,q_100,w_700/v1620375705/rps_qcb9oe.png",
-        "name":"Rock, paper, scissors game",
-        "desc":"This allows users to challenge the computer in a friendly game of rock. paper, scissors.",
-        "live":"https://rps-1000.netlify.app/",
-        "code":"https://github.com/leoikeh99/Rock-Paper-Scissors-Game",
-        "preview":"https://res.cloudinary.com/wazza99/image/upload/v1620375465/rps_gm5yqu.gif",
-        "techs":[{"name":"HTML5","class":"fab fa-html5","color":"#E34C26"},{"name":"CSS3","class":"fab fa-css3","color":"#264DE4"},{"name":"JAVASCRIPT","class":"fab fa-js","color":"#F0DB4F"},{"name":"JQUERY","class":null}]
+        "image":"https://res.cloudinary.com/wazza99/image/upload/c_scale,,q_100h_700,w_700/v1629735350/insure_juxugp.png",
+        "name":"Insure Landing Page",
+        "desc":"Landing Page for insurance company",
+        "live":"https://insure-page1000.netlify.app/",
+        "code":"https://github.com/leoikeh99/insure-landing-page",
+        "preview":"https://res.cloudinary.com/wazza99/image/upload/c_scale,,q_100h_700,w_700/v1629735350/insure_juxugp.png",
+        "techs":[{"name":"HTML5","class":"fab fa-html5","color":"#E34C26"},{"name":"CSS3","class":"fab fa-css3","color":"#264DE4"},{"name":"JAVASCRIPT","class":"fab fa-js","color":"#F0DB4F"}]
     }
 ]
