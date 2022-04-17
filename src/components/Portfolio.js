@@ -22,10 +22,9 @@ const Portfolio = () => {
           href="https://github.com/leoikeh99?tab=repositories"
           target="_blank"
           className="btn2"
-          style={{ maxWidth: "300px" }}
-        >
+          style={{ maxWidth: "300px" }}>
           <i className="fab fa-github"></i>
-          View All Projects
+          View Github
         </a>
       </div>
       {preview && <Preview gif={preview} setView={setView} />}

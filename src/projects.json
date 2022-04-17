@@ -1,56 +1,96 @@
 [
-    {
-        "image":"https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,w_700/v1619779001/chatGroup_qbaasy.png",
-        "name":"Chat Group",
-        "desc":"this is a group chat application i built using web sockets (socket.io), users are able to create groups, join groups and chat with other users.",
-        "live":"https://lit-citadel-94024.herokuapp.com/",
-        "code":"https://github.com/leoikeh99/chatGroup",
-        "preview":"https://res.cloudinary.com/wazza99/image/upload/q_100/v1620207455/chatgroup_h09yph.gif",
-        "techs":[{"name":"HTML5","class":"fab fa-html5","color":"#E34C26"},{"name":"CSS3","class":"fab fa-css3","color":"#264DE4"},{"name":"JAVASCRIPT","class":"fab fa-js","color":"#F0DB4F"},{"name":"REACTJS","class":"fab fa-react","color":"#61DBFB"},{"name":"NodeJs","class":"fab fa-node","color":"#68A063"},{"name":"MongoDb","class":"fas fa-database","color":"#4DB33D"},{"name":"Express.js","class":null},{"name":"Context API","class":null},{"name":"Socket.io","class":"fas fa-plug","color":"#4DB33D"}]
-    },
-    {
-        "image":"https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,w_700/v1619778687/shop1_yzurby.png",
-        "name":"Shoppinify",
-        "desc":"Shoppinify is a fullstack application built for the purpose of allowing users to create shopping lists and perform all sorts of actions to thier items, it also enable history view and statictical view of shopping lists.",
-        "live":"https://agile-temple-46662.herokuapp.com/",
-        "code":"https://github.com/leoikeh99/shoppingify",
-        "preview":"https://res.cloudinary.com/wazza99/image/upload/v1620307579/shoppingify_clhsti.gif",
-        "techs":[{"name":"HTML5","class":"fab fa-html5","color":"#E34C26"},{"name":"CSS3","class":"fab fa-css3","color":"#264DE4"},{"name":"JAVASCRIPT","class":"fab fa-js","color":"#F0DB4F"},{"name":"REACTJS","class":"fab fa-react","color":"#61DBFB"},{"name":"NodeJs","class":"fab fa-node","color":"#68A063"},{"name":"MongoDb","class":"fas fa-database","color":"#4DB33D"},{"name":"Express.js","class":null},{"name":"REDUX","class":null}]
-    },
-    {
-        "image":"https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,w_700/v1619779285/gitjobs_wxullh.png",
-        "name":"Github Jobs",
-        "desc":"This is a frontend application built using react, it enables users to easily scan through the github jobs. (Made using githubjobs API)",
-        "live":"https://githubjobs1000.netlify.app/",
-        "code":"https://github.com/leoikeh99/github-jobs",
-        "preview":"https://res.cloudinary.com/wazza99/image/upload/v1620305988/githubjobs_ckdpaa.gif",
-        "techs":[{"name":"HTML5","class":"fab fa-html5","color":"#E34C26"},{"name":"CSS3","class":"fab fa-css3","color":"#264DE4"},{"name":"JAVASCRIPT","class":"fab fa-js","color":"#F0DB4F"},{"name":"REACTJS","class":"fab fa-react","color":"#61DBFB"},{"name":"Context API","class":null}]
-    },
-    {
-        "image":"https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,w_700/weatherapp_dkrv6i.png",
-        "name":"Weather App",
-        "desc":"This application enables users to view the weather status of thier location as well as other locations.",
-        "live":"https://weather-app1000.netlify.app/",
-        "code":"https://github.com/leoikeh99/weather-app",
-        "preview":"https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,w_700/v1620373749/weather_sqv4gd.gif",
-        "techs":[{"name":"HTML5","class":"fab fa-html5","color":"#E34C26"},{"name":"CSS3","class":"fab fa-css3","color":"#264DE4"},{"name":"JAVASCRIPT","class":"fab fa-js","color":"#F0DB4F"},{"name":"REACTJS","class":"fab fa-react","color":"#61DBFB"}]
-    },
-    {
-        "image":"https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,w_700/v1629738690/sunnyside_2_mokrl5.png",
-        "name":"Sunnyside Landing Page",
-        "desc":"This is a Landing page for sunnyside digital company",
-        "live":"https://sunnysidepage1000.netlify.app/",
-        "code":"https://github.com/leoikeh99/sunnysidePage",
-        "preview":"https://res.cloudinary.com/wazza99/image/upload/v1629738690/sunnyside_2_mokrl5.png",
-        "techs":[{"name":"HTML5","class":"fab fa-html5","color":"#E34C26"},{"name":"CSS3","class":"fab fa-css3","color":"#264DE4"},{"name":"JAVASCRIPT","class":"fab fa-js","color":"#F0DB4F"}]
-    },
-    {
-        "image":"https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,w_700/v1629739143/insure_tuoglc.png",
-        "name":"Insure Landing Page",
-        "desc":"Landing Page for insurance company",
-        "live":"https://insure-page1000.netlify.app/",
-        "code":"https://github.com/leoikeh99/insure-landing-page",
-        "preview":"https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,w_700/v1629739143/insure_tuoglc.png",
-        "techs":[{"name":"HTML5","class":"fab fa-html5","color":"#E34C26"},{"name":"CSS3","class":"fab fa-css3","color":"#264DE4"},{"name":"JAVASCRIPT","class":"fab fa-js","color":"#F0DB4F"}]
-    }
+  {
+    "image": "https://res.cloudinary.com/wazza99/image/upload/v1649517189/invoice_w1mqee.png",
+    "name": "Invoice App",
+    "desc": "This is a frontend application built using react, an app that allows users to keep track of their invoices and perform all sorts of actions to their invoices.",
+    "live": "https://invoiceapp1000.netlify.app/",
+    "code": "https://github.com/leoikeh99/InvoiceApp",
+    "preview": null,
+    "techs": [
+      { "name": "Tailwind Css", "class": null },
+      { "name": "JAVASCRIPT", "class": "fab fa-js", "color": "#F0DB4F" },
+      { "name": "REACTJS", "class": "fab fa-react", "color": "#61DBFB" },
+      { "name": "Context API", "class": null }
+    ]
+  },
+  {
+    "image": "https://res.cloudinary.com/wazza99/image/upload/v1649517190/afile_d7vzrg.png",
+    "name": "Audiophile",
+    "desc": "Audiophile is an e-commerce application that enables users to buy audiophile gear.",
+    "live": "https://audiophile-gamma.vercel.app/",
+    "code": "https://github.com/leoikeh99/audiophile",
+    "preview": null,
+    "techs": [
+      { "name": "NextJs", "class": null },
+      { "name": "Styled Components", "class": null },
+      { "name": "Framer motion", "class": null },
+      { "name": "Formik", "class": null },
+      { "name": "JAVASCRIPT", "class": "fab fa-js", "color": "#F0DB4F" }
+    ]
+  },
+  {
+    "image": "https://res.cloudinary.com/wazza99/image/upload/v1649517190/prfa_nfttei.png",
+    "name": "Product Feedback App",
+    "desc": "This is a feedback app created using react, it allows users to create feedbacks and view feedbacks from other users.",
+    "live": "https://productfeedbackfrontend.vercel.app/",
+    "code": "https://github.com/leoikeh99/product-feedback-frontend",
+    "preview": null,
+    "techs": [
+      { "name": "NextJs", "class": null },
+      { "name": "Styled Components", "class": null },
+      { "name": "Framer motion", "class": null },
+      { "name": "JAVASCRIPT", "class": "fab fa-js", "color": "#F0DB4F" }
+    ]
+  },
+  {
+    "image": "https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,w_700/weatherapp_dkrv6i.png",
+    "name": "Weather App",
+    "desc": "This application enables users to view the weather status of thier location as well as other locations.",
+    "live": "https://weather-app1000.netlify.app/",
+    "code": "https://github.com/leoikeh99/weather-app",
+    "preview": "https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,w_700/v1620373749/weather_sqv4gd.gif",
+    "techs": [
+      { "name": "HTML5", "class": "fab fa-html5", "color": "#E34C26" },
+      { "name": "CSS3", "class": "fab fa-css3", "color": "#264DE4" },
+      { "name": "JAVASCRIPT", "class": "fab fa-js", "color": "#F0DB4F" },
+      { "name": "REACTJS", "class": "fab fa-react", "color": "#61DBFB" }
+    ]
+  },
+  {
+    "image": "https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,w_700/v1619779001/chatGroup_qbaasy.png",
+    "name": "Chat Group",
+    "desc": "this is a group chat application i built using web sockets (socket.io), users are able to create groups, join groups and chat with other users.",
+    "live": "https://lit-citadel-94024.herokuapp.com/",
+    "code": "https://github.com/leoikeh99/chatGroup",
+    "preview": "https://res.cloudinary.com/wazza99/image/upload/q_100/v1620207455/chatgroup_h09yph.gif",
+    "techs": [
+      { "name": "HTML5", "class": "fab fa-html5", "color": "#E34C26" },
+      { "name": "CSS3", "class": "fab fa-css3", "color": "#264DE4" },
+      { "name": "JAVASCRIPT", "class": "fab fa-js", "color": "#F0DB4F" },
+      { "name": "REACTJS", "class": "fab fa-react", "color": "#61DBFB" },
+      { "name": "NodeJs", "class": "fab fa-node", "color": "#68A063" },
+      { "name": "MongoDb", "class": "fas fa-database", "color": "#4DB33D" },
+      { "name": "Express.js", "class": null },
+      { "name": "Context API", "class": null },
+      { "name": "Socket.io", "class": "fas fa-plug", "color": "#4DB33D" }
+    ]
+  },
+  {
+    "image": "https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,w_700/v1619778687/shop1_yzurby.png",
+    "name": "Shoppinify",
+    "desc": "Shoppinify is a fullstack application built for the purpose of allowing users to create shopping lists and perform all sorts of actions to thier items, it also enable history view and statictical view of shopping lists.",
+    "live": "https://agile-temple-46662.herokuapp.com/",
+    "code": "https://github.com/leoikeh99/shoppingify",
+    "preview": "https://res.cloudinary.com/wazza99/image/upload/v1620307579/shoppingify_clhsti.gif",
+    "techs": [
+      { "name": "HTML5", "class": "fab fa-html5", "color": "#E34C26" },
+      { "name": "CSS3", "class": "fab fa-css3", "color": "#264DE4" },
+      { "name": "JAVASCRIPT", "class": "fab fa-js", "color": "#F0DB4F" },
+      { "name": "REACTJS", "class": "fab fa-react", "color": "#61DBFB" },
+      { "name": "NodeJs", "class": "fab fa-node", "color": "#68A063" },
+      { "name": "MongoDb", "class": "fas fa-database", "color": "#4DB33D" },
+      { "name": "Express.js", "class": null },
+      { "name": "REDUX", "class": null }
+    ]
+  }
 ]

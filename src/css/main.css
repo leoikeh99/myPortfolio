@@ -366,7 +366,10 @@ nav {
       list-style: none;
       position: relative;
       border: 2px solid #fff;
-      border-radius: 12px; }
+      border-radius: 12px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between; }
       #portfolio ul li img {
         display: block;
         object-fit: contain;
@@ -380,12 +383,6 @@ nav {
           margin: 0; }
         #portfolio ul li .content p {
           color: #999; }
-        #portfolio ul li .content .bottom1 {
-          display: grid;
-          grid-template-columns: 1fr 1fr;
-          grid-gap: 10px; }
-        #portfolio ul li .content .bottom2 {
-          margin-top: 10px; }
         #portfolio ul li .content .techs {
           margin-bottom: 10px;
           display: flex;
@@ -401,6 +398,14 @@ nav {
             #portfolio ul li .content .techs span:hover {
               border: 2px solid #d43f52;
               background: #d43f52; }
+      #portfolio ul li .bottom {
+        padding: 20px 10px; }
+      #portfolio ul li .bottom1 {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 10px; }
+      #portfolio ul li .bottom2 {
+        margin-top: 10px; }
 
 .about {
   background: #000;

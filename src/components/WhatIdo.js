@@ -23,7 +23,7 @@ const WhatIdo = () => {
             <i className="fas fa-laptop"></i>
           </div>
           <div className="content">
-            <h3>Frontend Develoment</h3>
+            <h3>Frontend Development</h3>
             <p>
               I love working on the front end, creating reuseable components and
               working with state management tools in order to make my code
@@ -36,7 +36,7 @@ const WhatIdo = () => {
             <i className="fas fa-cogs"></i>
           </div>
           <div className="content">
-            <h3>Backend Develoment</h3>
+            <h3>Backend Development</h3>
             <p>
               I'm all about creating routes for api endpoints, writing secure
               authentication for users and routes and also creating an easy and

@@ -319,6 +319,9 @@ nav {
       // max-width: 380px;
       border: 2px solid $text;
       border-radius: 12px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
 
       img {
         display: block;
@@ -337,16 +340,6 @@ nav {
 
         p {
           color: $text2;
-        }
-
-        .bottom1 {
-          display: grid;
-          grid-template-columns: 1fr 1fr;
-          grid-gap: 10px;
-        }
-
-        .bottom2 {
-          margin-top: 10px;
         }
 
         .techs {
@@ -368,6 +361,19 @@ nav {
             }
           }
         }
+      }
+      .bottom {
+        padding: 20px 10px;
+      }
+
+      .bottom1 {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 10px;
+      }
+
+      .bottom2 {
+        margin-top: 10px;
       }
     }
   }
