@@ -1,5 +1,21 @@
 [
   {
+    "image": "https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,w_700/v1674649044/fgse_jcsgn5.png",
+    "name": "FGSE",
+    "desc": "This is an e-commerce site created for a company that sells different types of shoes, the owners have an admin section while the clients can search, browse and save shoes the want to get in the future",
+    "live": "https://firstgeorgesimon.com/",
+    "code": false,
+    "preview": false,
+    "techs": [
+      { "name": "HTML5", "class": "fab fa-html5", "color": "#E34C26" },
+      { "name": "CSS3", "class": "fab fa-css3", "color": "#264DE4" },
+      { "name": "JAVASCRIPT", "class": "fab fa-js", "color": "#F0DB4F" },
+      { "name": "NextJs", "class": "", "color": "#61DBFB" },
+      { "name": "MongoDb", "class": "fas fa-database", "color": "#4DB33D" },
+      { "name": "REDUX", "class": null }
+    ]
+  },
+  {
     "image": "https://res.cloudinary.com/wazza99/image/upload/v1649517189/invoice_w1mqee.png",
     "name": "Invoice App",
     "desc": "This is a frontend application built using react, an app that allows users to keep track of their invoices and perform all sorts of actions to their invoices.",
@@ -29,17 +45,33 @@
     ]
   },
   {
-    "image": "https://res.cloudinary.com/wazza99/image/upload/v1649517190/prfa_nfttei.png",
-    "name": "Product Feedback App",
-    "desc": "This is a feedback app created using react, it allows users to create feedbacks and view feedbacks from other users.",
-    "live": "https://productfeedbackfrontend.vercel.app/",
-    "code": "https://github.com/leoikeh99/product-feedback-frontend",
+    "image": "https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,w_700/v1674649040/tictactoe_mblhap.png",
+    "name": "Tic-Tac-Toe game",
+    "desc": "This is a tic-tac-toe game that enables users to play versus another present user, play versus a friend online and also play against a strong computer.",
+    "live": "https://tic-tac-toe-ma15.onrender.com/",
+    "code": "https://github.com/leoikeh99/tic-tac-toe-online",
+    "preview": false,
+    "techs": [
+      { "name": "HTML5", "class": "fab fa-html5", "color": "#E34C26" },
+      { "name": "CSS3", "class": "fab fa-css3", "color": "#264DE4" },
+      { "name": "JAVASCRIPT", "class": "fab fa-js", "color": "#F0DB4F" },
+      { "name": "REACTJS", "class": "fab fa-react", "color": "#61DBFB" },
+      { "name": "NodeJs", "class": "fab fa-node", "color": "#68A063" },
+      { "name": "Socket.io", "class": "fas fa-plug", "color": "#4DB33D" }
+    ]
+  },
+  {
+    "image": "https://res.cloudinary.com/wazza99/image/upload/v1674650385/entertainmentweb_n6jpeg.png",
+    "name": "Entertainment web",
+    "desc": "A movie app where users could browse and bookmark thier favourite movies and tv series.",
+    "live": "https://entertainment-web.vercel.app/",
+    "code": "https://github.com/leoikeh99/entertainment-web/blob/main/README.md",
     "preview": null,
     "techs": [
       { "name": "NextJs", "class": null },
       { "name": "Styled Components", "class": null },
-      { "name": "Framer motion", "class": null },
-      { "name": "JAVASCRIPT", "class": "fab fa-js", "color": "#F0DB4F" }
+      { "name": "MongoDb", "class": "fas fa-database", "color": "#4DB33D" },
+      { "name": "TYPESCRIPT", "class": "fab fa-ts", "color": "#F0DB4F" }
     ]
   },
   {
@@ -48,49 +80,12 @@
     "desc": "This application enables users to view the weather status of thier location as well as other locations.",
     "live": "https://weather-app1000.netlify.app/",
     "code": "https://github.com/leoikeh99/weather-app",
-    "preview": "https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,w_700/v1620373749/weather_sqv4gd.gif",
+    "preview": false,
     "techs": [
       { "name": "HTML5", "class": "fab fa-html5", "color": "#E34C26" },
       { "name": "CSS3", "class": "fab fa-css3", "color": "#264DE4" },
       { "name": "JAVASCRIPT", "class": "fab fa-js", "color": "#F0DB4F" },
       { "name": "REACTJS", "class": "fab fa-react", "color": "#61DBFB" }
-    ]
-  },
-  {
-    "image": "https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,w_700/v1619779001/chatGroup_qbaasy.png",
-    "name": "Chat Group",
-    "desc": "this is a group chat application i built using web sockets (socket.io), users are able to create groups, join groups and chat with other users.",
-    "live": "https://lit-citadel-94024.herokuapp.com/",
-    "code": "https://github.com/leoikeh99/chatGroup",
-    "preview": "https://res.cloudinary.com/wazza99/image/upload/q_100/v1620207455/chatgroup_h09yph.gif",
-    "techs": [
-      { "name": "HTML5", "class": "fab fa-html5", "color": "#E34C26" },
-      { "name": "CSS3", "class": "fab fa-css3", "color": "#264DE4" },
-      { "name": "JAVASCRIPT", "class": "fab fa-js", "color": "#F0DB4F" },
-      { "name": "REACTJS", "class": "fab fa-react", "color": "#61DBFB" },
-      { "name": "NodeJs", "class": "fab fa-node", "color": "#68A063" },
-      { "name": "MongoDb", "class": "fas fa-database", "color": "#4DB33D" },
-      { "name": "Express.js", "class": null },
-      { "name": "Context API", "class": null },
-      { "name": "Socket.io", "class": "fas fa-plug", "color": "#4DB33D" }
-    ]
-  },
-  {
-    "image": "https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,w_700/v1619778687/shop1_yzurby.png",
-    "name": "Shoppinify",
-    "desc": "Shoppinify is a fullstack application built for the purpose of allowing users to create shopping lists and perform all sorts of actions to thier items, it also enable history view and statictical view of shopping lists.",
-    "live": "https://agile-temple-46662.herokuapp.com/",
-    "code": "https://github.com/leoikeh99/shoppingify",
-    "preview": "https://res.cloudinary.com/wazza99/image/upload/v1620307579/shoppingify_clhsti.gif",
-    "techs": [
-      { "name": "HTML5", "class": "fab fa-html5", "color": "#E34C26" },
-      { "name": "CSS3", "class": "fab fa-css3", "color": "#264DE4" },
-      { "name": "JAVASCRIPT", "class": "fab fa-js", "color": "#F0DB4F" },
-      { "name": "REACTJS", "class": "fab fa-react", "color": "#61DBFB" },
-      { "name": "NodeJs", "class": "fab fa-node", "color": "#68A063" },
-      { "name": "MongoDb", "class": "fas fa-database", "color": "#4DB33D" },
-      { "name": "Express.js", "class": null },
-      { "name": "REDUX", "class": null }
     ]
   }
 ]

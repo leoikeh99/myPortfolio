@@ -19,13 +19,15 @@ const Project = ({ val, setView }) => {
         </div>
       </div>
       <div className="bottom">
-        <div className="bottom1">
+        <div className={val.code && "bottom1"}>
           <a href={val.live} className="btn2" target="_blank">
             <i className="fas fa-external-link-alt"></i> View Live
           </a>
-          <a href={val.code} className="btn2" target="_blank">
-            <i className="fab fa-github"></i> View Code
-          </a>
+          {val.code && (
+            <a href={val.code} className="btn2" target="_blank">
+              <i className="fab fa-github"></i> View Code
+            </a>
+          )}
         </div>
         {val.preview && (
           <div className="bottom2" onClick={() => setView(val.preview)}>
