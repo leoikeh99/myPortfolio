@@ -1,5 +1,23 @@
 [
   {
+    "image": "https://res.cloudinary.com/wazza99/image/upload/c_scale,w_1280/v1676274942/kanaban-management.vercel.app_9065eb58-6c32-43c4-8d50-6c06f47e64b8_3_alucwr.png",
+    "name": "Kanaban Task Manager",
+    "desc": "Efficient kanban task manager app uses visual boards to organize tasks and flexible task cards for better productivity.",
+    "live": "https://kanaban-management.vercel.app/",
+    "code": "https://github.com/leoikeh99/Kanaban-Management",
+    "preview": false,
+    "techs": [
+      { "name": "HTML5", "class": "fab fa-html5", "color": "#E34C26" },
+      { "name": "CSS3", "class": "fab fa-css3", "color": "#264DE4" },
+      { "name": "JAVASCRIPT", "class": "fab fa-js", "color": "#F0DB4F" },
+      { "name": "NextJs", "class": "", "color": "#61DBFB" },
+      { "name": "Postgresql", "class": "fas fa-database", "color": "#4DB33D" },
+      { "name": "Context API", "class": null },
+      { "name": "Prisma ORM", "class": null },
+      { "name": "NextAuth", "class": null }
+    ]
+  },
+  {
     "image": "https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,w_700/v1674649044/fgse_jcsgn5.png",
     "name": "FGSE",
     "desc": "This is an e-commerce site created for a company that sells different types of shoes, the owners have an admin section while the clients can search, browse and save shoes the want to get in the future",
@@ -32,7 +50,7 @@
   {
     "image": "https://res.cloudinary.com/wazza99/image/upload/v1649517190/afile_d7vzrg.png",
     "name": "Audiophile",
-    "desc": "Audiophile is an e-commerce application that enables users to buy audiophile gear.",
+    "desc": "Audiophile is an e-commerce website that enables users to buy audiophile gear.",
     "live": "https://audiophile-gamma.vercel.app/",
     "code": "https://github.com/leoikeh99/audiophile",
     "preview": null,
@@ -72,20 +90,6 @@
       { "name": "Styled Components", "class": null },
       { "name": "MongoDb", "class": "fas fa-database", "color": "#4DB33D" },
       { "name": "TYPESCRIPT", "class": "fab fa-ts", "color": "#F0DB4F" }
-    ]
-  },
-  {
-    "image": "https://res.cloudinary.com/wazza99/image/upload/c_scale,q_auto,w_700/weatherapp_dkrv6i.png",
-    "name": "Weather App",
-    "desc": "This application enables users to view the weather status of thier location as well as other locations.",
-    "live": "https://weather-app1000.netlify.app/",
-    "code": "https://github.com/leoikeh99/weather-app",
-    "preview": false,
-    "techs": [
-      { "name": "HTML5", "class": "fab fa-html5", "color": "#E34C26" },
-      { "name": "CSS3", "class": "fab fa-css3", "color": "#264DE4" },
-      { "name": "JAVASCRIPT", "class": "fab fa-js", "color": "#F0DB4F" },
-      { "name": "REACTJS", "class": "fab fa-react", "color": "#61DBFB" }
     ]
   }
 ]
